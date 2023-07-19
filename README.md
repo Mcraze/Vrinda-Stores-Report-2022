@@ -1,9 +1,9 @@
 # Vrinda Stores Report 2022
 
-### Objective:
+### Problem Statement:
 Vrinda Store wants to create an annual sales report for 2022 so that Vrinda Store can understand its customers and increase sales in 2023.
 
-### Problem Statement:
+### Questions to be Addressed:
 - What are the total sales by month and the total number of orders received?
 - Which month had the highest sales and orders?
 - Did men or women make more purchases in 2022?
@@ -13,7 +13,7 @@ Vrinda Store wants to create an annual sales report for 2022 so that Vrinda Stor
 - Which channel contributes to the maximum sales?
 - What is the highest selling category of product?
 
-### Dashboard Design
+### Dashboard Design:
 ![Vrinda Stores Dashboard](https://github.com/Mcraze/Vrinda-Stores-Report-2022/assets/84672998/12ddc6af-b667-4a5b-ac43-f0df5744f136)
 
 ### Generated Insights:
